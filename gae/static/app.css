@@ -58,3 +58,7 @@ footer {
 	max-height: 390px;
 	overflow-y: scroll;
 }
+
+.panel-title a {
+	display: block;
+}
